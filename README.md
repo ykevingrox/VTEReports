@@ -10,19 +10,21 @@ Changes has been made.
 
 The implementation of Negex is taken from [chapmanbe][https://github.com/chapmanbe/negex/tree/master/negex.python]
 
-##Usage
+## Usage
 
-'''Shell
+```Shell
 pip install VTEReportsAnalysis
-'''
+```
 
 
-'''Python
+```Python
 from VTEReportsAnalysis import extraction
 
 extracion('not found')
-'''
+```
 
+
+## Version
 
 * Version 1.02
 	- Remove NLTK dependency
